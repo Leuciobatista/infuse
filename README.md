@@ -43,7 +43,9 @@ Endpoints
 ### Criar Pedidos:
 
 URL: /pedidos
+
 Método: POST
+
 Body: Lista de pedidos (JSON ou XML)
 ### Buscar Pedidos por Número de Controle:
 
