@@ -48,22 +48,24 @@ Body: Lista de pedidos (JSON ou XML)
 ### Buscar Pedidos por Número de Controle:
 
 URL: /pedidos/buscarPorNumeroControle
+
 Método: GET
+
 Parâmetros: numeroControle
 
 ### Buscar Pedidos por Data de Cadastro:
 
 URL: /pedidos/buscarPorDataCadastro
+
 Método: GET
+
 Parâmetros: dataCadastro
 
 ### Listar Todos os Pedidos:
 
 URL: /pedidos/todos
-Método: GET
 
-### Exemplos de Requisições
-(Adicione aqui exemplos de requisições para cada endpoint, incluindo corpos de requisição e exemplos de respostas, se possível.)
+Método: GET
 
 ### Autor
 Lêucio Batista
