@@ -14,7 +14,7 @@ Este projeto implementa uma API de gerenciamento de pedidos desenvolvida com Spr
 - Spring Boot
 - Java 1.8
 - JPA / Hibernate
-- PostgreSQL
+- MySQL
 - Maven
 - JUnit e Mockito para testes
 
