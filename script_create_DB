@@ -1,0 +1,7 @@
+#Script para criação do banco de dados
+CREATE DATABASE IF NOT EXISTS infuse;
+
+#Script para criação do usuário de banco.
+INSERT INTO usuarios (username, password, is_admin)
+VALUES ('admin', 'senha_secreta', true);
+
