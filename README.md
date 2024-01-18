@@ -12,7 +12,7 @@ Este projeto implementa uma API de gerenciamento de pedidos desenvolvida com Spr
 ## Tecnologias Utilizadas
 
 - Spring Boot
-- Java 1.8
+- Java 17
 - JPA / Hibernate
 - MySQL
 - Maven
