@@ -29,7 +29,7 @@ Este projeto implementa uma API de gerenciamento de pedidos desenvolvida com Spr
 ### Instalação e Execução
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Leuciobatista/infuse)
 cd nome-do-repositorio
 mvn clean install
 java -jar target/nome-do-arquivo.jar
