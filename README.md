@@ -22,7 +22,7 @@ Este projeto implementa uma API de gerenciamento de pedidos desenvolvida com Spr
 
 ### Pré-requisitos
 
-- Java JDK 1.8
+- Java JDK 17
 - Maven
 - PostgreSQL
 
