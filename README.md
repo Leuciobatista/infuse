@@ -29,15 +29,15 @@ Este projeto implementa uma API de gerenciamento de pedidos desenvolvida com Spr
 ### Instalação e Execução
 
 ```bash
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Leuciobatista/infuse)
-cd nome-do-repositorio
+git clone https://github.com/Leuciobatista/infuse
+cd infuse
 mvn clean install
-java -jar target/nome-do-arquivo.jar
+java -jar target/infuse.jar
 ```
 ### Configuração do Banco de Dados
-Crie um banco de dados no PostgreSQL antes de iniciar a aplicação.
+Crie um banco de dados no MySQL usando o Script no repositório antes de iniciar a aplicação.
 Configure o arquivo application.properties com as credenciais do seu banco de dados.
-Uso
+
 Endpoints
 
 ### Criar Pedidos:
