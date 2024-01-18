@@ -24,7 +24,7 @@ Este projeto implementa uma API de gerenciamento de pedidos desenvolvida com Spr
 
 - Java JDK 17
 - Maven
-- PostgreSQL
+- MySQL
 
 ### Instalação e Execução
 
