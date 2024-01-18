@@ -40,14 +40,14 @@ Configure o arquivo application.properties com as credenciais do seu banco de da
 
 ## Endpoints
 
-# Criar Pedidos:
+### Criar Pedidos:
 
 URL: /pedidos
 
 Método: POST
 
 Body: Lista de pedidos (JSON ou XML)
-# Buscar Pedidos por Número de Controle:
+### Buscar Pedidos por Número de Controle:
 
 URL: /pedidos/buscarPorNumeroControle
 
@@ -55,7 +55,7 @@ Método: GET
 
 Parâmetros: numeroControle
 
-# Buscar Pedidos por Data de Cadastro:
+### Buscar Pedidos por Data de Cadastro:
 
 URL: /pedidos/buscarPorDataCadastro
 
@@ -63,7 +63,7 @@ Método: GET
 
 Parâmetros: dataCadastro
 
-# Listar Todos os Pedidos:
+### Listar Todos os Pedidos:
 
 URL: /pedidos/todos
 
@@ -73,7 +73,7 @@ Método: GET
 Lêucio Batista
 
 ### Agradecimentos 
-Agradeço a oportunidade de participar do processo seletivo.
+Agradeço todos da INFUSE TECNOLOGIA pela oportunidade de participar do processo seletivo.
 
 ## Considerações sobre o Projeto
 
