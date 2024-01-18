@@ -38,16 +38,16 @@ java -jar target/infuse.jar
 Crie um banco de dados no MySQL usando o Script no repositório antes de iniciar a aplicação.
 Configure o arquivo application.properties com as credenciais do seu banco de dados.
 
-### Endpoints
+## Endpoints
 
-## Criar Pedidos:
+# Criar Pedidos:
 
 URL: /pedidos
 
 Método: POST
 
 Body: Lista de pedidos (JSON ou XML)
-### Buscar Pedidos por Número de Controle:
+# Buscar Pedidos por Número de Controle:
 
 URL: /pedidos/buscarPorNumeroControle
 
@@ -55,7 +55,7 @@ Método: GET
 
 Parâmetros: numeroControle
 
-### Buscar Pedidos por Data de Cadastro:
+# Buscar Pedidos por Data de Cadastro:
 
 URL: /pedidos/buscarPorDataCadastro
 
@@ -63,7 +63,7 @@ Método: GET
 
 Parâmetros: dataCadastro
 
-### Listar Todos os Pedidos:
+# Listar Todos os Pedidos:
 
 URL: /pedidos/todos
 
